@@ -6,4 +6,4 @@ São 27 Estados e 5.570 Cidades.
 http://www.ibge.gov.br/home/geociencias/areaterritorial/area.shtm
 
 A tabela utilizada para gerar tais dados, é a versão mais recente disponível no FTP do IBGE, a qual pode ser obtida no seguinte link: 
-ftp://geoftp.ibge.gov.br/organizacao_territorial/divisao_territorial/2014/
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2015/
