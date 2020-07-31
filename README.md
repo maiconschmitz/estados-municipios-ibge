@@ -1,9 +1,25 @@
-Script SQL de criação das tabelas e inserção dos conteúdos de Estados e Cidades.
+# estado-cidade-ibge
 
-São 27 Estados e 5.570 Cidades.
+O repositório **estado-cidade-ibge** contém uma lista atualizada de Estados e Cidades do Brasil.
 
-É possível consultar as cidades (municípios) através do Nome ou Código no seguinte link: 
-http://www.ibge.gov.br/home/geociencias/areaterritorial/area.shtm
+São **27** Estados e **5.570** Cidades.
 
-A tabela utilizada para gerar tais dados, é a versão mais recente disponível no FTP do IBGE, a qual pode ser obtida no seguinte link: 
-ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2015/
+A base de dados utilizada para gerar os dados aqui contidos, é a da versão mais recente disponível no FTP do IBGE, nomeada **DTB_2019_v2.zip**, com última atualização em **07/07/2020**.
+
+A mesma pode ser obtida no seguinte endereço:
+[ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2019](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2019 "Cidades e Estados").
+
+É possível também, consultar tais cidades (municípios), através do seu Nome ou Código, no seguinte link:
+[Brasil | Cidades e Estados | IBGE](https://www.ibge.gov.br/cidades-e-estados.html?view=municipio "Cidades e Estados")
+
+## SQL
+
+O Script SQL (**estado_cidade_ibge.sql**), é compatível com MySQL e efetua a criação, bem como a inserção dos conteúdos de Estados e Cidades nas respectivas tabelas.
+
+## CSV
+
+São 2 arquivos no formato CSV, contendo respectivamente, a lista de Estados e Cidades.
+
+**estado_ibge.csv** - Lista de Estados
+
+**cidade_ibge.csv** - Lista de Cidades
