@@ -1,6 +1,6 @@
 # estado-cidade-ibge
 
-O repositório **estado-cidade-ibge** contém uma lista atualizada de Estados e Cidades do Brasil.
+O repositório **estado-cidade-ibge** contém uma lista de Estados e Cidades do Brasil.
 
 São **27** Estados e **5.570** Cidades.
 
