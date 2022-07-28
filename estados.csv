@@ -1,0 +1,28 @@
+﻿estado_id;uf;nome;capital;regiao
+11;RO;Rondônia;Porto Velho;Norte
+12;AC;Acre;Rio Branco;Norte
+13;AM;Amazonas;Manaus;Norte
+14;RR;Roraima;Boa Vista;Norte
+15;PA;Pará;Belém;Norte
+16;AP;Amapá;Macapá;Norte
+17;TO;Tocantins;Palmas;Norte
+21;MA;Maranhão;São Luís;Nordeste
+22;PI;Piauí;Teresina;Nordeste
+23;CE;Ceará;Fortaleza;Nordeste
+24;RN;Rio Grande do Norte;Natal;Nordeste
+25;PB;Paraíba;João Pessoa;Nordeste
+26;PE;Pernambuco;Recife;Nordeste
+27;AL;Alagoas;Maceió;Nordeste
+28;SE;Sergipe;Aracaju;Nordeste
+29;BA;Bahia;Salvador;Nordeste
+31;MG;Minas Gerais;Belo Horizonte;Sudeste
+32;ES;Espírito Santo;Vitória;Sudeste
+33;RJ;Rio de Janeiro;Rio de Janeiro;Sudeste
+35;SP;São Paulo;São Paulo;Sudeste
+41;PR;Paraná;Curitiba;Sul
+42;SC;Santa Catarina;Florianópolis;Sul
+43;RS;Rio Grande do Sul;Porto Alegre;Sul
+50;MS;Mato Grosso do Sul;Campo Grande;Centro-Oeste
+51;MT;Mato Grosso;Cuiabá;Centro-Oeste
+52;GO;Goiás;Goiânia;Centro-Oeste
+53;DF;Distrito Federal;Brasília;Centro-Oeste
