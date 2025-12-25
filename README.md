@@ -4,10 +4,10 @@ O repositório **estados-municipios-ibge** contém uma lista atualizada dos Esta
 
 São no total, **27** estados e **5.570** municípios.
 
-A base de dados utilizada para gerar tais dados é a mais recente disponível no FTP do IBGE com última atualização em: **22/02/2022** e nomeada **DTB_2021.zip**.
+A base de dados utilizada para gerar tais dados é a mais recente disponível no FTP do IBGE com última atualização em: **30/04/2025** e nomeada **DTB_2024.zip**.
 
 O endereço FTP para obtenção da base:
-[ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2021](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2021 "Estados e Municípios").
+[ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2022](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2022 "Estados e Municípios").
 
 ## Formato disponível
 
@@ -25,6 +25,7 @@ São 2 arquivos no formato CSV, contendo respectivamente as listas de Estados e 
 ### API do IBGE
 
 O IBGE possui uma [API de localidades](https://servicodados.ibge.gov.br/api/docs/localidades "API de localidades"), a qual disponibiliza uma série de recursos e dados tais como:
+
 - Países
 - Regiões do Brasil
 - Unidades da Federação
